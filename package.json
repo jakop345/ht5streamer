@@ -11,6 +11,7 @@
     "min_height": 200,
     "title": "ht5streamer",
     "show": false
+     "node": "4.1.1"
   },
   "chromium-args": "--ignore-gpu-blacklist"
 }
